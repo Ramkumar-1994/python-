@@ -1,0 +1,1 @@
+Find the average of two number entered by the user
